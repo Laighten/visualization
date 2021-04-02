@@ -43,20 +43,12 @@
 
 - 2020.09.15 TVCG [A Visual Analytics Framework for Explaining and Diagnosing Transfer Learning]()
 - 
-- 
-- 
-- 
 
-### 相关论文
+### 其他相关论文
 
 - 2020.08 ICML [LEEP: A New Measure to Evaluate Transferability of Learned Representations]()
-- 
-
-
 
 ## 书籍收集
 
 - 陈为, 沈则潜, 陶煜波. [数据可视化]()[J]. 电子工业出版社, 2013.
 - 邱南森. [数据之美:一本书学会可视化设计]():visualization that means something 北京[M]. 图, 2014.
-- 
-- 
