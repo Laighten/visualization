@@ -1,5 +1,7 @@
 # visualization 可视化
 
+![可视化](https://img.shields.io/badge/visualization-可视化-{red}.svg)[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 该仓库整理了本人学习数据可视化的相关课程笔记以及本人收集的相关论文、可视化书籍、可视化牛人博客及主页等。
 
 ## 论文收集
