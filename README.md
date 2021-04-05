@@ -4,6 +4,12 @@
 
 该仓库整理了本人学习数据可视化的相关课程笔记以及本人收集的相关论文、可视化书籍、可视化牛人博客及主页等。
 
+| Contents                   |                                        |
+| :------------------------- | :------------------------------------- |
+| Paper collection(论文收集) | Course notes(课程笔记)                 |
+| Books(书籍收集)            | Visualization Challenge(可视化挑战赛） |
+| Website&Blog(牛人博客)     | Contributing (欢迎参与贡献)            |
+
 ## Paper collection(论文收集)
 
 #### 可视化论文
