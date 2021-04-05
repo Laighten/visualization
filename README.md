@@ -4,9 +4,9 @@
 
 该仓库整理了本人学习数据可视化的相关课程笔记以及本人收集的相关论文、可视化书籍、可视化牛人博客及主页等。
 
-## 论文收集
+## Paper collection(论文收集)
 
-### 可视化论文
+#### 可视化论文
 
 - 2020.09.15 TVCG [A Visual Analytics Framework for Explaining and Diagnosing Transfer Learning](https://xueshu.baidu.com/usercenter/paper/show?paperid=16670240bn0c0xe0wy6f04r08j753432&site=xueshu_se&hitarticle=1)
   - 用于解释和诊断迁移学习过程的可视化分析框架
@@ -17,54 +17,12 @@
 - 2019.07.01 ChinaVis2019 论文集
 - 2018.04.01 IEEE Nie S , Healey C , Padia K , et al. [Visualizing Deep Neural Networks for Text Analytics](https://xueshu.baidu.com/usercenter/paper/show?paperid=5c50030c63a9a4718e4923d4aa552d7e&site=xueshu_se&hitarticle=1)
 - 2017 TVCG Liu M , Shi J , Zhen L , et al. [Towards Better Analysis of Deep Convolutional Neural Networks](https://xueshu.baidu.com/usercenter/paper/show?paperid=4740f0caa77d0d2302eef4020fe2d3de&site=xueshu_se)
-- 2016 PasificVis 论文集
-  - SepMe: 2002 New Visual Separation Measures
-  - Interactive Exploration of Atomic Trajectories Through Relative-Angle Distribution and Associated Uncertainties
-  - Comparative Visualization of Multiple Time Surfaces by Planar Surface Reformation
-  - Comparative Visualization of Multiple Time Surfaces by Planar Surface Reformation – additional material
-  - Geo Word Clouds
-  - Topology-Inspired Galilean Invariant Vector Field Analysis
-  - A Crowdsourcing System for Integrated and Reproducible Evaluation in Scientifific Visualization
-  - A Crowdsourcing System for Integrated and Reproducible Evaluation in Scientifific Visualization Appendix: Application Cases
-  - MovementSlicer: Better Gantt Charts for Visualizing Behaviors and Meetings in Movement Data
-  - Mathematical Foundations of Arc Length-Based Aspect Ratio Selection
-  - Spot-Tracking Lens: A Zoomable User Interface for Animated Bubble Charts
-  - Accelerated Visualization of Transparent Molecular Surfaces in Molecular Dynamics
-  - TravelDiff: Visual Comparison Analytics for Massive Movement Patterns Derived from Twitter
-  - Comparative Visualization of Vector Field Ensembles Based on Longest Common Subsequence
-  - Rethinking Sensitivity Analysis of Nuclear Simulations with Topology
-  - An Integrated Geometric and Topological Approach to Connecting Cavities in Biomolecules
-  - Visual Monitoring of Process Runs: An Application Study for Stored Procedures
-  - An Integrated Visualization System for Interactive Analysis of Large,Heterogeneous Cosmology Data
-  - EnsembleGraph: Interactive Visual Analysis of Spatiotemporal Behaviors in Ensemble Simulation Data
-  - Finite-Time Lyapunov Exponents and Lagrangian Coherent Structures in Uncertain Unsteady Flows
-  - Visual Analysis of Cloud Computing Performance Using Behavioral Lines
-  - Adaptive Disentanglement Based on Local Clustering in Small-World Network Visualization
-  - Minimizing the Number of Edges via Edge Concentration in Dense Layered Graphs
-  - Critical Point Cancellation in 3D Vector Fields: Robustness and Discussion
-  - PieceStack: Toward Better Understanding of Stacked Graphs
-  - ICLIC: Interactive Categorization of Large Image Collections
-  - Interactive Visual Co-Cluster Analysis of Bipartite Graphs
-  - Visualizing Knots and Braids with Touchable 3D Manipulatives
-  - Effificient Unsteady Flow Visualization with High-Order Access Dependencies
-  - A Visual Analytics Approach to High-Dimensional Logistic Regression Modeling and its Application to an Environmental Health Study
-  - Dimension Reconstruction for Visual Exploration of Subspace Clusters in High-dimensional Data
-- .....
 
-### 其他相关论文
+[**更多 More...**](./awesome_paper.md)
 
-- 2020.08 ICML [LEEP: A New Measure to Evaluate Transferability of Learned Representations](https://xueshu.baidu.com/usercenter/paper/show?paperid=1b320cs0q47c08u04y1m0m408x148126&site=xueshu_se&hitarticle=1)
-  - 一种用于评估可迁移性的新方法；
-  - 该方法可以预测迁移学习方法的性能和收敛速度;
-  - 是第一个开发元迁移学习的可迁移性测量的工作；
-  - 对于小数据或不平衡数据也同样适用；
-- .....
+## Course notes(课程笔记)
 
-
-
-## 可视化课程笔记
-
-### 《跟月影学可视化》
+#### 《跟月影学可视化》
 
 - [01-课前必学](./跟月影学可视化/01-课前必学.md)
 - [02-图形基础篇01]()
@@ -78,7 +36,7 @@
 - [09-特别放送]()
 - [10-结束语]()
 
-### 《浙大可视化暑期班 2020》
+#### 《浙大可视化暑期班 2020》
 
 - [可视化工具echarts的使用]()
 - [视觉与认知]()
@@ -95,7 +53,7 @@
 - [科学数据可视化]()
 - [文本与文档可视化]()
 
-### 《CSIG 图像图形九期班》
+#### 《IGAL 图像图形学科前沿讲习班 2018》
 
 - [从易用到自动化：可视化的下个十年]()-Xiaoru Yuan Peking Unviersity
 - [The Future of Work Using Advanced Data Visualization Techniques for Communication and Collaboration]()- Jian Zhao,Ph.D（上）
@@ -111,7 +69,7 @@
 
 
 
-## 书籍收集
+## Books(书籍收集)
 
 - 陈为, 沈则潜, 陶煜波. [数据可视化](https://xueshu.baidu.com/usercenter/paper/show?paperid=a57aa686d33c3b201ca91ca91adf2c18&site=xueshu_se)[J]. 电子工业出版社, 2013.
 - 斯蒂尔. [数据可视化之美](https://xueshu.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%BE%8E&rsv_bp=0&tn=SE_baiduxueshu_c1gjeupa&rsv_spt=3&ie=utf-8&f=8&rsv_sug2=1&sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&rsv_n=2)[M]. 机械工业出版社, 2011.
@@ -120,7 +78,7 @@
 
 
 
-## 可视化比赛
+## Visualization Challenge(可视化挑战赛）
 
 - ........
 
