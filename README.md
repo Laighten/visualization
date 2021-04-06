@@ -29,7 +29,7 @@
 
 
 
-## Academic journals(学术会议)
+## Academic journals(学术期刊)
 
 1. **A类**
 
