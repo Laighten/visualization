@@ -41,7 +41,7 @@
    |  4   |  TOCHI   |      ACM Transactions on Computer-Human Interaction      |  ACM   |        http://dblp.uni-trier.de/db/journals/tochi/        |
    | .... |  .....   |                          ......                          | .....  |                          ......                           |
 
-[更多 More...](./academic_journals.md)
+[**更多 More...**](./academic_journals.md)
 
 
 
