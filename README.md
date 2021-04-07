@@ -68,7 +68,7 @@
 #### 《跟月影学可视化》学习笔记
 
 - 01-课前必学-[我的笔记](./Notes/跟月影学可视化/01-课前必学.md)
-- 02-图形基础篇01-我的笔记
+- 02-图形基础篇01-[我的笔记](./Notes/跟月影学可视化/02-图形基础篇01.md)
 - 02-图形基础篇02-我的笔记
 - 03-数学篇-我的笔记
 - 04-视觉基础篇-我的笔记
@@ -117,13 +117,11 @@
 - 陈为, 沈则潜, 陶煜波. [数据可视化](https://xueshu.baidu.com/usercenter/paper/show?paperid=a57aa686d33c3b201ca91ca91adf2c18&site=xueshu_se)[J]. 电子工业出版社, 2013.
 - 斯蒂尔. [数据可视化之美](https://xueshu.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%BE%8E&rsv_bp=0&tn=SE_baiduxueshu_c1gjeupa&rsv_spt=3&ie=utf-8&f=8&rsv_sug2=1&sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&rsv_n=2)[M]. 机械工业出版社, 2011.
 - Ben Fry. [可视化数据](https://xueshu.baidu.com/usercenter/paper/show?paperid=b538d6323789958787a1f948388ce7a6&site=xueshu_se)[M]. 电子工业出版社, 2009.
-- ......
+- Tony Parisi, 郝稼力. [WebGL入门指南](https://xueshu.baidu.com/usercenter/paper/show?paperid=6fc0bf117a87e8885ea7138b193b908b&site=xueshu_se)[M]. 人民邮电出版社, 2013.
 
 
 
 ## Visualization Challenge(可视化挑战赛）
-
-- ........
 
 - ChinaVis  [ChinaVis2021](http://www.chinavis.org/2021/challenge.html)
 
@@ -132,9 +130,8 @@
   - [ChinaVis2018](http://www.chinavis.org/2018/challenge.html)
   - [ChinaVis2017](http://www.chinavis.org/2017/challenge.html)
   - [ChinaVis2016](http://www.chinavis.org/2016/challenge.html)
-  - ........
-
   
+
 
 ## Website&Blog(牛人博客)
 
@@ -145,7 +142,6 @@
 - [屈华民老师个人主页](http://www.huamin.org/)
 - [刘世霞老师个人主页](http://www.shixialiu.com/)
 - [张迪老师的博客](http://www.storagelab.org.cn/zhangdi/)
-- .....
 
 
 
