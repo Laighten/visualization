@@ -33,31 +33,15 @@
 
 1. **A类**
 
-   | 序号 | 刊物简称 |                         刊物名称                         |      出版社      |                           网址                            |
-   | :--: | :------: | :------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
-   |  1   |   TVCG   | IEEE Transactions on Visualization and Computer Graphics |       IEEE       |        http://dblp.uni-trier.de/db/journals/tvcg/         |
-   |  2   | SIGGRAPH |              ACM SIGGRAPH Annual Conference              |       ACM        |   http://dblp.uni-trier.de/db/conf/siggraph/index.html    |
-   |  3   | IEEE VIS |              IEEE Visualization Conference               |       IEEE       | http://dblp.uni-trier.de/db/conf/visualization/index.html |
-   |  4   |  TOCHI   |      ACM Transactions on Computer-Human Interaction      |       ACM        |        http://dblp.uni-trier.de/db/journals/tochi/        |
-   |  5   |   HCI    |                Human Computer Interaction                | Taylor & Francis |        http://dblp.uni-trier.de/db/journals/hhci/         |
-   |  6   |   CHI    |   ACM Conference on Human Factors in Computing Systems   |       ACM        |           http://dblp.uni-trier.de/db/conf/chi            |
+   | 序号 | 刊物简称 |                         刊物名称                         | 出版社 |                           网址                            |
+   | :--: | :------: | :------------------------------------------------------: | :----: | :-------------------------------------------------------: |
+   |  1   |   TVCG   | IEEE Transactions on Visualization and Computer Graphics |  IEEE  |        http://dblp.uni-trier.de/db/journals/tvcg/         |
+   |  2   | SIGGRAPH |              ACM SIGGRAPH Annual Conference              |  ACM   |   http://dblp.uni-trier.de/db/conf/siggraph/index.html    |
+   |  3   | IEEE VIS |              IEEE Visualization Conference               |  IEEE  | http://dblp.uni-trier.de/db/conf/visualization/index.html |
+   |  4   |  TOCHI   |      ACM Transactions on Computer-Human Interaction      |  ACM   |        http://dblp.uni-trier.de/db/journals/tochi/        |
+   | .... |  .....   |                          ......                          | .....  |                          ......                           |
 
-2. **B类**
-
-   | 序号 | 刊物简称 |                 刊物名称                 | 出版社 |                   网址                   |
-   | :--: | :------: | :--------------------------------------: | :----: | :--------------------------------------: |
-   |  1   | EuroVis  | Eurographics Conference on Visualization |  ACM   | http://dblp.uni-trier.de/db/conf/vissym/ |
-
-3. **C类**
-
-   | 序号 |  刊物简称  |                         刊物名称                         |  出版社  |                    网址                     |
-   | :--: | :--------: | :------------------------------------------------------: | :------: | :-----------------------------------------: |
-   |  1   |   JVCIR    | Journal of Visual Communication and Image Representation | Elsevier | http://dblp.uni-trier.de/db/journals/jvcir/ |
-   |  2   | PacificVis |           IEEE Pacific Visualization Symposium           |   IEEE   |   http://dblp.uni-trier.de/db/conf/apvis/   |
-
-
-
-**参考文献**：中国计算机学会推荐国际学术会议和期刊目录(2019 年)
+[更多 More...](./academic_journals.md)
 
 
 
@@ -79,36 +63,7 @@
 - 09-特别放送-我的笔记
 - 10-结束语-我的笔记
 
-#### 《浙大可视化暑期班 2020》学习笔记
-
-- 可视化工具使用总结-[我的笔记](./Notes/浙大可视化暑期班_2020/可视化工具使用总结.md)
-- 视觉与认知-我的笔记
-- HTML和CSS入门-我的笔记
-- 可视化设计、变化与编码-我的笔记
-- JavaScript入门-我的笔记
-- 高维数据可视化-我的笔记
-- React/Vue前端框架-我的笔记
-- 时间数据可视化-我的笔记
-- 可视化分析系统的框架及搭建教学-我的笔记
-- 空间与地理数据可视化-我的笔记
-- 树图与网络可视化-我的笔记
-- 可视化交互-我的笔记
-- 科学数据可视化-我的笔记
-- 文本与文档可视化-我的笔记
-
-#### 《IGAL 图像图形学科前沿讲习班 2018》学习笔记
-
-- 从易用到自动化：可视化的下个十年-Xiaoru Yuan Peking Unviersity-我的笔记
-- The Future of Work Using Advanced Data Visualization Techniques for Communication and Collaboration- Jian Zhao,Ph.D（上）-我的笔记
-- The Future of Work Using Advanced Data Visualization Techniques for Communication and Collaboration- Jian Zhao,Ph.D（下）-我的笔记
-- Make your data live! Design visualization for the data science workflow-Jian Zhao,Ph.D-我的笔记
-- Visualization in Health Informatics-Nan Cao Intelligent Big Data Visualization Lab Tongji University-我的笔记
-- 时空大数据的高效可视分析-陈为 浙江大学CAD&CG国家重点实验室-我的笔记
-- 海量动态图数据的可视分析理论与应用-陈为-我的笔记
-- Visual Analytics for Meta/Log Data Analysis and Quality Management-Shixia Liu (刘世霞) Tsinghua University (清华大学)-我的笔记
-- 基于特征的流场可视化-陶钧 中山大学数据科学与计算机学院-我的笔记
-- Task-driven Automated Visualisation-Yunhai Wang Shangdong University-我的笔记
-- 从认知和设计的角度看可视分析的研究方法和理论-张小龙-我的笔记
+[**更多 More...**](./Notes/Notes.md)
 
 
 
