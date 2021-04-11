@@ -79,9 +79,17 @@
 ## Books(书籍收集)
 
 - 陈为, 沈则潜, 陶煜波. [数据可视化](https://xueshu.baidu.com/usercenter/paper/show?paperid=a57aa686d33c3b201ca91ca91adf2c18&site=xueshu_se)[J]. 电子工业出版社, 2013.
+- Tony Parisi, 郝稼力. [WebGL入门指南](https://xueshu.baidu.com/usercenter/paper/show?paperid=6fc0bf117a87e8885ea7138b193b908b&site=xueshu_se)[M]. 人民邮电出版社, 2013.
 - 斯蒂尔. [数据可视化之美](https://xueshu.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%BE%8E&rsv_bp=0&tn=SE_baiduxueshu_c1gjeupa&rsv_spt=3&ie=utf-8&f=8&rsv_sug2=1&sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&rsv_n=2)[M]. 机械工业出版社, 2011.
 - Ben Fry. [可视化数据](https://xueshu.baidu.com/usercenter/paper/show?paperid=b538d6323789958787a1f948388ce7a6&site=xueshu_se)[M]. 电子工业出版社, 2009.
-- Tony Parisi, 郝稼力. [WebGL入门指南](https://xueshu.baidu.com/usercenter/paper/show?paperid=6fc0bf117a87e8885ea7138b193b908b&site=xueshu_se)[M]. 人民邮电出版社, 2013.
+- 一个介绍和归类可视化书籍的微信公众号：[一头倭瓜精](https://mp.weixin.qq.com/s/oJS7DLQ7YTJr9GuG4L6CAQ)，将86本可视化书籍按以下分类：
+  - 经典理论
+  - 通俗读物
+  - 学术教材
+  - 业界经验
+  - 专项知识
+  - 工具教程
+- 86本书的详细列表的网站：http://visbooks.swansea.ac.uk/
 
 
 
