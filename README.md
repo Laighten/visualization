@@ -109,6 +109,7 @@
 
 - [北大可视化博客](http://vis.pku.edu.cn/blog/)
 - [浙大可视化博客](https://zjuvag.org/blog/)
+- [同济大学智能大数据可视化实验室 微信公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzg2NzkzMw==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63010043&lang=zh_CN&a8scene=7&fontgear=2)
 - [川大可视化实验室](http://scuvis.org/)
 - [山东大学可视化实验 知乎](https://www.zhihu.com/people/shan-da-ke-shi-hua-shi-yan-shi)
 - [奇安信雷尔可视化平台 知乎](https://www.zhihu.com/column/360vislab)
