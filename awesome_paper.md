@@ -68,5 +68,9 @@
   - 该方法可以预测迁移学习方法的性能和收敛速度;
   - 是第一个开发元迁移学习的可迁移性测量的工作；
   - 对于小数据或不平衡数据也同样适用；
-- .....
-- for test.......
+- 2019.01 IEEE ICIP [An information-theoretic approach to transferability in task transfer learning](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r6y0ty0bf4p0jy0np2e0cp058458877&site=xueshu_se&hitarticle=1)
+  - 一种用于评估机器模型可迁移性的方法；
+  - 提出一种基于统计和信息理论的特征迁移能力度量标准——H-score；
+  - 使用该方法可以直接通过预训练模型和目标任务训练数据进行计算，无须在目标任务上训练模型；
+  - 适用于迁移学习中预训练模型选择问题；
+- .......
