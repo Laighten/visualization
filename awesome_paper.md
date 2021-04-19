@@ -73,4 +73,8 @@
   - 提出一种基于统计和信息理论的特征迁移能力度量标准——H-score；
   - 使用该方法可以直接通过预训练模型和目标任务训练数据进行计算，无须在目标任务上训练模型；
   - 适用于迁移学习中预训练模型选择问题；
+- 2018.08 ICANN   [A Survey on Deep Transfer Learning](https://xueshu.baidu.com/usercenter/paper/show?paperid=a41fa8702b71de237b12337fec157b8d&site=xueshu_se&hitarticle=1)
+  - 给出了深度迁移学习的定义
+  - 通过收集整理近几年相关文献，将深度迁移学习分为四类，并具体对每一类进展进行了描述
+  - 适用于对深度迁移学习进一步了解
 - .......
