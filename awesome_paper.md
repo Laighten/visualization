@@ -73,8 +73,14 @@
   - 提出一种基于统计和信息理论的特征迁移能力度量标准——H-score；
   - 使用该方法可以直接通过预训练模型和目标任务训练数据进行计算，无须在目标任务上训练模型；
   - 适用于迁移学习中预训练模型选择问题；
-- 2018.08 ICANN   [A Survey on Deep Transfer Learning](https://xueshu.baidu.com/usercenter/paper/show?paperid=a41fa8702b71de237b12337fec157b8d&site=xueshu_se&hitarticle=1)
+- 2018.08 ICANN [A Survey on Deep Transfer Learning](https://xueshu.baidu.com/usercenter/paper/show?paperid=a41fa8702b71de237b12337fec157b8d&site=xueshu_se&hitarticle=1)
   - 给出了深度迁移学习的定义
   - 通过收集整理近几年相关文献，将深度迁移学习分为四类，并具体对每一类进展进行了描述
   - 适用于对深度迁移学习进一步了解
+- 2014.11 NIPS [How transferable are features in deep neural networks?]([How transferable are features in deep neural networks? - 百度学术 (baidu.com)](https://xueshu.baidu.com/usercenter/paper/show?paperid=16510470du540gn0n15q0820xw060270&site=xueshu_se&hitarticle=1))
+  - 论文深度神经网络中奇怪现象入手————前面几层都学习到的是通用的特征（general feature），随着网络的加深，后面的网络更偏重于学习特定的特征（specific feature），通篇以实验为主，提出并解决了在深度神经网络特征迁移中一些问题
+  - 深度神经网络特征迁移的程度如何受到高层特定化特征(specialization of higher layer features)和层之间的相互适应性(co-adapted layers)的影响
+  - 说明特征可转移性与任务间相关性正相关
+  - 指出通过可转移特征初始化网络能有效提高泛化性能并且由于随机权重
+  - 此篇论文对理解神经网络以及深度迁移学习都有着非常重要的意义，推荐阅读
 - .......
