@@ -2,7 +2,7 @@
 
 #### 可视化论文
 
-- 2021.10.07 【Journal of Visualization】Jin Z , Chen N , Y Shi, et al. [TrammelGraph: visual graph abstraction for comparison](https://xueshu.baidu.com/usercenter/paper/show?paperid=167n0gf0y90y0610033y0ce0aw359840&site=xueshu_se&hitarticle=1)
+- 2021【Journal of Visualization】Jin Z , Chen N , Y Shi, et al. [TrammelGraph: visual graph abstraction for comparison](https://xueshu.baidu.com/usercenter/paper/show?paperid=167n0gf0y90y0610033y0ce0aw359840&site=xueshu_se&hitarticle=1)
   - .....
 - 2020.11.25 刘世霞、夏志佳  [A Survey of Visual Analytics Techniques for Machine Learning](http://www.shixialiu.com/publications/survey-cvm/paper.pdf)
   - 该综述归纳整理了2010-2020年的可视化相关论文及2010年以前的少数可视化相关论文，共259篇；
