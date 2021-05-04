@@ -24,6 +24,12 @@
    |  1   |   JVCIR    | Journal of Visual Communication and Image Representation | Elsevier | http://dblp.uni-trier.de/db/journals/jvcir/ |
    |  2   | PacificVis |           IEEE Pacific Visualization Symposium           |   IEEE   |   http://dblp.uni-trier.de/db/conf/apvis/   |
 
+4. **其他**
+
+   - ChinaVIS
+     - 中文《计算机辅助设计与图形学学报》
+     - 英文《Journal of Visualization》
+
 
 
 **参考文献**：中国计算机学会推荐国际学术会议和期刊目录(2019 年)
