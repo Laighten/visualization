@@ -2,6 +2,8 @@
 
 #### 可视化论文
 
+- 2021.10.07 Journal of Visualization Jin Z , Chen N , Y Shi, et al. [TrammelGraph: visual graph abstraction for comparison](https://xueshu.baidu.com/usercenter/paper/show?paperid=167n0gf0y90y0610033y0ce0aw359840&site=xueshu_se&hitarticle=1)
+  - 
 - 2020.11.25 刘世霞、夏志佳  [A Survey of Visual Analytics Techniques for Machine Learning](http://www.shixialiu.com/publications/survey-cvm/paper.pdf)
   - 该综述归纳整理了2010-2020年的可视化相关论文及2010年以前的少数可视化相关论文，共259篇；
   - 论文范围包括：InfoVis，VAST，Vis（后来的SciVis）,EuroVis，PacificVis，IEEE TVCG，CGF和CG&A;
@@ -61,7 +63,7 @@
   - A Visual Analytics Approach to High-Dimensional Logistic Regression Modeling and its Application to an Environmental Health Study
   - Dimension Reconstruction for Visual Exploration of Subspace Clusters in High-dimensional Data
 
-#### 其他相关论文
+#### 迁移学习与可视化
 
 - 2020.08 ICML [LEEP: A New Measure to Evaluate Transferability of Learned Representations](https://xueshu.baidu.com/usercenter/paper/show?paperid=1b320cs0q47c08u04y1m0m408x148126&site=xueshu_se&hitarticle=1)
   - 一种用于评估可迁移性的新方法；

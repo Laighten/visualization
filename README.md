@@ -63,6 +63,8 @@
 - 01-课前必学-[我的笔记](./Notes/跟月影学可视化/01-课前必学.md)
 - 02-图形基础篇01-[我的笔记](./Notes/跟月影学可视化/02-图形基础篇01.md)
 - 02-图形基础篇02-[我的笔记](./Notes/跟月影学可视化/02-图形基础篇02.md)
+- 02-图形基础篇03-[我的笔记](./Notes/跟月影学可视化/02-图形基础篇03.md)
+- 02-图形基础篇04-[我的笔记](./Notes/跟月影学可视化/02-图形基础篇04.md)
 - 03-数学篇-我的笔记
 - 04-视觉基础篇-我的笔记
 - 05-视觉高级篇-我的笔记
@@ -113,6 +115,7 @@
 - [川大可视化实验室](http://scuvis.org/)
 - [山东大学可视化实验 知乎](https://www.zhihu.com/people/shan-da-ke-shi-hua-shi-yan-shi)
 - [奇安信雷尔可视化平台 知乎](https://www.zhihu.com/column/360vislab)
+- [奇舞周刊_知乎](https://www.zhihu.com/column/75weekly)
 - [屈华民老师个人主页](http://www.huamin.org/)
 - [刘世霞老师个人主页](http://www.shixialiu.com/)
 - [张迪老师的博客](http://www.storagelab.org.cn/zhangdi/)
